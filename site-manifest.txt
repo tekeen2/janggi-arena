@@ -1,17 +1,9 @@
-﻿JANGGI ARENA STATIC POLICY SITE MANIFEST
-status=PUBLIC_DRAFT
-operatorDisplayName=스튜디오 킨투
-responsibleOperator=이동연
-supportEmail=keen2@gmail.com
-privacyContactEmail=keen2@gmail.com
-
-githubOwner=tekeen2
-githubRepository=janggi-arena
-rootUrl=https://tekeen2.github.io/janggi-arena
-privacyUrl=https://tekeen2.github.io/janggi-arena/privacy-policy
-termsUrl=https://tekeen2.github.io/janggi-arena/terms
-dataDeletionUrl=https://tekeen2.github.io/janggi-arena/data-deletion
-
-legalReviewStatus=NOT_COMPLETED
-policyFinalizationStatus=PUBLIC_DRAFT
-playConsoleDataSafetyInput=False
+﻿JANGGI_ARENA_POLICY_SITE_MANIFEST
+updatedAt=2026-07-18 00:10:31
+supportEmail=keentek2@gmail.com
+file|.nojekyll|F1945CD6C19E56B3C1C78943EF5EC18116907A4CA1EFC40A57D48AB1DB7ADFC5
+file|index.html|3243CABF49B7555AFD14A9174EE1BAAE0E38C41F173A8DF6D84839AB7B61B112
+file|assets\style.css|023913177E589441C186D2AB2E7117578A8CE21D85FB23F5E57050D42AD900EF
+file|privacy-policy\index.html|DCEB2464DDD507D5B5A1187AE7F9D5D1B46C1B5735A8C1E163BD2CCD8A077346
+file|terms\index.html|43F25027B5B4844A55843FF1685EC8551CB924FB09384677D04C01AE912FDF80
+file|data-deletion\index.html|F13728C49EEEC039E7375F21F9484D4A2B21BEE18A0951CDF08459D4ECDCEBB5
